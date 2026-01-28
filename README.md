@@ -31,6 +31,14 @@ The project covers:
 - Risk assessment tables
 - Attack scenarios and defense strategy
 
+---
+
+## 🧠 Unified Attack Tree (XMind)
+
+The complete attack tree for this project is available at the following link:
+
+🔗 https://app.xmind.com/share/3c79AYDR
+
 ## 🛠 Skills Demonstrated
 
 - Cybersecurity Analysis
